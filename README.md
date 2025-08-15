@@ -1,2 +1,2 @@
 # DSA
-Problem Solving and practicing
+Problem Solving and practicing.
